@@ -12,17 +12,6 @@ This project implements logistic regression for sentiment analysis on tweets. Th
 - Test and validate your logistic regression model
 - Perform error analysis
 
-## Instructions for AutoGrader Submission
-
-Ensure the following before submission:
-1. No extra `print` statements.
-2. No extra code cells.
-3. No changes to function parameters.
-4. No global variables unless specified.
-5. No unnecessary changes to the provided code.
-
-Failure to adhere to these guidelines may result in submission errors. For a fresh copy of the assignment, refer to the [instructions](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/supplement/YLuAg/h-ow-to-refresh-your-workspace).
-
 ## Table of Contents
 
 - [Import Functions and Data](#0)
@@ -40,4 +29,5 @@ Failure to adhere to these guidelines may result in submission errors. For a fre
         - [Exercise 5 - test_logistic_regression (UNQ_C5)](#ex-5)
 - [5 - Error Analysis](#5)
 - [6 - Predict with Your Own Tweet](#6)
+
 ```
